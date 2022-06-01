@@ -12,12 +12,12 @@ const x = function x()
 receivesAFunction(x);
 
 
-const anonymousFxn = function y() {
+const namedFxn = function y() {
     return 'Stretch! Work that core!';
  }
 function returnsANamedFunction()
 {
-    return anonymousFxn;
+    return namedFxn;
 }
 
 
