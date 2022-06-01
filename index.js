@@ -26,13 +26,3 @@ function returnsAnAnonymousFunction()
     return function(){return "abc";}
 }
 
-
-
-//  returnsANamedFunction(anonymousFxn);
-
-
-
-
-
-
-
